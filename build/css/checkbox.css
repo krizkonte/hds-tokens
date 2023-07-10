@@ -1,0 +1,19 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 10 Jul 2023 16:01:05 GMT
+ */
+
+:root {
+  --checkbox-color-bg-default: var(--transparent);
+  --checkbox-color-bg-hover: var(--violet-10);
+  --checkbox-color-bg-active: var(--violet-20);
+  --checkbox-color-icon-hover: var(--violet-80);
+  --checkbox-color-icon-disabled: var(--neutral-100);
+  --checkbox-color-icon-default: var(--neutral-130);
+  --checkbox-color-icon-active: var(--violet-100);
+  --checkbox-color-text-hover: var(--violet-80);
+  --checkbox-color-text-default: var(--neutral-130);
+  --checkbox-color-text-active: var(--violet-100);
+  --checkbox-color-text-disabled: var(--neutral-100);
+  --checkbox-color-bg-focus: var(--checkbox-color-bg-hover);
+}

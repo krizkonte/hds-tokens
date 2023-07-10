@@ -9,7 +9,12 @@
       "files": [
         {
           "destination": "core-colors.scss",
-          "format": "scss/variables"
+          "format": "scss/variables",
+          "filter": {
+            "attributes": {
+              "category": "core-color"
+            }
+          }
         },
          {
           "destination": "selector.scss",
@@ -20,7 +25,7 @@
 
           "filter": {
             "attributes": {
-              "type": "selector"
+              "category": "selector"
             }
           }
         },
@@ -49,6 +54,32 @@
               "category": "form"
             }
           }
+        },
+        {
+          "destination": "checkbox.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "checkbox"
+            }
+          }
+        },
+        {
+          "destination": "radiobutton.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "radiobutton"
+            }
+          }
         }
       ]
     },
@@ -60,7 +91,12 @@
       "files": [
         {
           "destination": "core-colors.css",
-          "format": "css/variables"
+          "format": "css/variables",
+          "filter": {
+            "attributes": {
+              "category": "core-color"
+            }
+          }
         },
         {
           "destination": "selector.css",
@@ -71,7 +107,7 @@
 
           "filter": {
             "attributes": {
-              "type": "selector"
+              "category": "selector"
             }
           }
         },
@@ -100,7 +136,33 @@
               "category": "form"
             }
           }
-        }
+        },
+        {
+          "destination": "checkbox.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "checkbox"
+            }
+          }
+        },
+        {
+          "destination": "radiobutton.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "radiobutton"
+            }
+          }
+        }        
       ]
     }
 }}

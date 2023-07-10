@@ -1,0 +1,22 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 10 Jul 2023 16:01:05 GMT
+ */
+
+:root {
+  --radiobutton-color-bg-active: var(--violet-20);
+  --radiobutton-color-bg-hover: var(--violet-10);
+  --radiobutton-color-bg-default: var(--transparent);
+  --radiobutton-color-icon-hover: var(--violet-80);
+  --radiobutton-color-icon-default: var(--neutral-130);
+  --radiobutton-color-icon-active: var(--violet-100);
+  --radiobutton-color-icon-disabled: var(--neutral-100);
+  --radiobutton-color-text-label-default: var(--neutral-130);
+  --radiobutton-color-text-label-hover: var(--violet-80);
+  --radiobutton-color-text-label-active: var(--violet-100);
+  --radiobutton-color-text-label-disabled: var(--neutral-100);
+  --radiobutton-color-text-description-disabled: var(--neutral-100);
+  --radiobutton-color-text-description-default: var(--neutral-110);
+  --radiobutton-color-text-description-hover: var(--neutral-130);
+  --radiobutton-color-text-description-active: var(--neutral-130);
+}

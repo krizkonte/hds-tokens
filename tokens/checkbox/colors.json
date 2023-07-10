@@ -1,0 +1,84 @@
+{
+    "checkbox": {
+      "color": {
+        "text": {
+          "disabled": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{neutral.100}"
+          },
+          "active": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{violet.100}"
+          },
+          "default": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{neutral.130}"
+          },
+          "hover": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{violet.80}"
+          }
+        },
+        "icon": {
+          "active": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{violet.100}"
+          },
+          "default": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{neutral.130}"
+          },
+          "disabled": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{neutral.100}"
+          },
+          "hover": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{violet.80}"
+          }
+        },
+        "bg": {
+          "active": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{violet.20}"
+          },
+          "hover": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{violet.10}"
+          },
+          "focus": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{checkbox.color.bg.hover}"
+          },
+          "default": {
+            "attributes": {
+              "category": "checkbox"
+            },
+            "value": "{transparent}"
+          }
+        }
+      }
+    }
+  }

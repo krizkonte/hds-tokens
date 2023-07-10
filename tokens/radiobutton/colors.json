@@ -1,0 +1,106 @@
+{
+  "radiobutton": {
+    "color": {
+      "text": {
+        "description": {
+          "active": {
+            "attributes": {
+              "category": "radiobutton"
+            },
+            "value": "{neutral.130}"
+          },
+          "hover": {
+            "attributes": {
+              "category": "radiobutton"
+            },
+            "value": "{neutral.130}"
+          },
+          "default": {
+            "attributes": {
+              "category": "radiobutton"
+            },
+            "value": "{neutral.110}"
+          },
+          "disabled": {
+            "attributes": {
+              "category": "radiobutton"
+            },
+            "value": "{neutral.100}"
+          }
+        },
+        "label": {
+          "disabled": {
+            "attributes": {
+              "category": "radiobutton"
+            },
+            "value": "{neutral.100}"
+          },
+          "active": {
+            "attributes": {
+              "category": "radiobutton"
+            },
+            "value": "{violet.100}"
+          },
+          "hover": {
+            "attributes": {
+              "category": "radiobutton"
+            },
+            "value": "{violet.80}"
+          },
+          "default": {
+            "attributes": {
+              "category": "radiobutton"
+            },
+            "value": "{neutral.130}"
+          }
+        }
+      },
+      "icon": {
+        "disabled": {
+          "attributes": {
+            "category": "radiobutton"
+          },
+          "value": "{neutral.100}"
+        },
+        "active": {
+          "attributes": {
+            "category": "radiobutton"
+          },
+          "value": "{violet.100}"
+        },
+        "default": {
+          "attributes": {
+            "category": "radiobutton"
+          },
+          "value": "{neutral.130}"
+        },
+        "hover": {
+          "attributes": {
+            "category": "radiobutton"
+          },
+          "value": "{violet.80}"
+        }
+      },
+      "bg": {
+        "default": {
+          "attributes": {
+            "category": "radiobutton"
+          },
+          "value": "{transparent}"
+        },
+        "hover": {
+          "attributes": {
+            "category": "radiobutton"
+          },
+          "value": "{violet.10}"
+        },
+        "active": {
+          "attributes": {
+            "category": "radiobutton"
+          },
+          "value": "{violet.20}"
+        }
+      }
+    }
+  }
+}
