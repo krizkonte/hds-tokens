@@ -1,0 +1,81 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 10 Jul 2023 14:41:28 GMT
+ */
+
+:root {
+  --selector-container-success-text-default: var(--green-120);
+  --selector-container-success-cleaner-icon-default: var(--neutral-100);
+  --selector-container-success-cleaner-icon-active: var(--red-70);
+  --selector-container-success-cleaner-icon-disabled: var(--neutral-70);
+  --selector-container-success-bg-hover: var(--green-10);
+  --selector-container-success-bg-active: var(--green-0);
+  --selector-container-success-bg-default: var(--green-0);
+  --selector-container-success-stroke-default: var(--green-40);
+  --selector-container-success-stroke-hover: var(--green-60);
+  --selector-container-success-stroke-active: var(--green-80);
+  --selector-container-success-placeholder-default: var(--green-120);
+  --selector-container-danger-text-default: var(--red-80);
+  --selector-container-danger-cleaner-icon-default: var(--neutral-100);
+  --selector-container-danger-cleaner-icon-active: var(--red-70);
+  --selector-container-danger-cleaner-icon-disabled: var(--neutral-70);
+  --selector-container-danger-bg-hover: var(--red-10);
+  --selector-container-danger-bg-active: var(--red-0);
+  --selector-container-danger-bg-default: var(--red-0);
+  --selector-container-danger-stroke-default: var(--red-40);
+  --selector-container-danger-stroke-hover: var(--red-60);
+  --selector-container-danger-stroke-active: var(--red-70);
+  --selector-container-danger-placeholder-default: var(--red-80);
+  --selector-container-neutral-color-text-default: var(--neutral-140);
+  --selector-container-neutral-color-text-disabled: var(--neutral-100);
+  --selector-container-neutral-color-bg-hover: var(--neutral-0);
+  --selector-container-neutral-color-bg-active: var(--violet-0);
+  --selector-container-neutral-color-bg-default: var(--neutral-20);
+  --selector-container-neutral-color-bg-disabled: var(--neutral-30);
+  --selector-container-neutral-color-stroke-hover: var(--violet-40);
+  --selector-container-neutral-color-stroke-active: var(--violet-70);
+  --selector-container-neutral-color-stroke-default: var(--neutral-40);
+  --selector-container-neutral-color-stroke-disabled: var(--neutral-30);
+  --selector-container-neutral-color-placeholder-disabled: var(--neutral-100);
+  --selector-container-neutral-color-placeholder-default: var(--neutral-130);
+  --selector-container-neutral-cleaner-icon-default: var(--neutral-100);
+  --selector-container-neutral-cleaner-icon-active: var(--red-70);
+  --selector-container-neutral-cleaner-icon-disabled: var(--neutral-70);
+  --selector-outline-success-text-default: var(--green-120);
+  --selector-outline-success-cleaner-icon-default: var(--neutral-100);
+  --selector-outline-success-cleaner-icon-active: var(--red-70);
+  --selector-outline-success-cleaner-icon-disabled: var(--neutral-70);
+  --selector-outline-success-bg-hover: var(--green-10);
+  --selector-outline-success-bg-active: var(--green-0);
+  --selector-outline-success-bg-default: var(--green-0);
+  --selector-outline-success-stroke-default: var(--green-40);
+  --selector-outline-success-stroke-hover: var(--green-60);
+  --selector-outline-success-stroke-active: var(--green-80);
+  --selector-outline-success-placeholder-default: var(--green-120);
+  --selector-outline-danger-text-default: var(--red-80);
+  --selector-outline-danger-cleaner-icon-default: var(--neutral-100);
+  --selector-outline-danger-cleaner-icon-active: var(--red-70);
+  --selector-outline-danger-cleaner-icon-disabled: var(--neutral-70);
+  --selector-outline-danger-bg-hover: var(--red-10);
+  --selector-outline-danger-bg-active: var(--red-0);
+  --selector-outline-danger-bg-default: var(--red-0);
+  --selector-outline-danger-stroke-default: var(--red-40);
+  --selector-outline-danger-stroke-hover: var(--red-60);
+  --selector-outline-danger-stroke-active: var(--red-70);
+  --selector-outline-danger-placeholder-default: var(--red-80);
+  --selector-outline-neutral-color-text-default: var(--neutral-140);
+  --selector-outline-neutral-color-text-disabled: var(--neutral-100);
+  --selector-outline-neutral-color-bg-hover: var(--neutral-20);
+  --selector-outline-neutral-color-bg-active: var(--violet-0);
+  --selector-outline-neutral-color-bg-default: var(--white);
+  --selector-outline-neutral-color-bg-disabled: var(--neutral-30);
+  --selector-outline-neutral-color-stroke-hover: var(--violet-40);
+  --selector-outline-neutral-color-stroke-active: var(--violet-70);
+  --selector-outline-neutral-color-stroke-default: var(--neutral-40);
+  --selector-outline-neutral-color-stroke-disabled: var(--neutral-30);
+  --selector-outline-neutral-color-placeholder-disabled: var(--neutral-100);
+  --selector-outline-neutral-color-placeholder-default: var(--neutral-130);
+  --selector-outline-neutral-cleaner-icon-default: var(--neutral-100);
+  --selector-outline-neutral-cleaner-icon-active: var(--red-70);
+  --selector-outline-neutral-cleaner-icon-disabled: var(--neutral-70);
+}

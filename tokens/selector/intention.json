@@ -1,0 +1,670 @@
+{
+    "selector": {
+      "outline": {
+        "neutral": {
+          "placeholder": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.placeholder.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.placeholder.disabled}"
+            }
+          },
+          "stroke": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.stroke.disabled}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.stroke.active}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.stroke.hover}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.stroke.default}"
+            }
+          },
+          "bg": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.bg.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.bg.default}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.bg.active}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.bg.hover}"
+            }
+          },
+          "cleaner-icon": {
+            "disabled": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.70}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.70}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.100}"
+            }
+          },
+          "text": {
+            "default": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.text.default}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.text.disabled}"
+            }
+          }
+        },
+        "danger": {
+          "placeholder": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.placeholder.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.80}"
+            }
+          },
+          "stroke": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.stroke.disabled}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.70}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.60}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.40}"
+            }
+          },
+          "bg": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.bg.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.0}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.0}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.10}"
+            }
+          },
+          "cleaner-icon": {
+            "disabled": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.70}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.70}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.100}"
+            }
+          },
+          "text": {
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.80}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.text.disabled}"
+            }
+          }
+        },
+        "success": {
+          "placeholder": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.placeholder.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.120}"
+            }
+          },
+          "stroke": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.stroke.disabled}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.80}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.60}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.40}"
+            }
+          },
+          "bg": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.bg.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.0}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.0}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.10}"
+            }
+          },
+          "cleaner-icon": {
+            "disabled": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.70}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.70}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.100}"
+            }
+          },
+          "text": {
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.120}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.outline.neutral.color.text.disabled}"
+            }
+          }
+        }
+      },
+      "container": {
+        "neutral": {
+          "placeholder": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.placeholder.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.placeholder.disabled}"
+            }
+          },
+          "stroke": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.stroke.disabled}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.stroke.active}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.stroke.hover}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.stroke.default}"
+            }
+          },
+          "bg": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.bg.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.bg.default}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.bg.active}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.bg.hover}"
+            }
+          },
+          "cleaner-icon": {
+            "disabled": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.70}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.70}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.100}"
+            }
+          },
+          "text": {
+            "default": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.text.default}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.text.disabled}"
+            }
+          }
+        },
+        "danger": {
+          "placeholder": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.placeholder.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.80}"
+            }
+          },
+          "stroke": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.stroke.disabled}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.70}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.60}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.40}"
+            }
+          },
+          "bg": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.bg.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.0}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.0}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.10}"
+            }
+          },
+          "cleaner-icon": {
+            "disabled": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.70}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.70}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.100}"
+            }
+          },
+          "text": {
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.80}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.text.disabled}"
+            }
+          }
+        },
+        "success": {
+          "placeholder": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.placeholder.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.120}"
+            }
+          },
+          "stroke": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.stroke.disabled}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.80}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.60}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.40}"
+            }
+          },
+          "bg": {
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.bg.disabled}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.0}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.0}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.10}"
+            }
+          },
+          "cleaner-icon": {
+            "disabled": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.70}"
+            },
+            "active": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{red.70}"
+            },
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{neutral.100}"
+            }
+          },
+          "text": {
+            "default": {
+              "attributes": {
+                "category": "color",
+                "type": "selector"
+              },
+              "value": "{green.120}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "color"
+              },
+              "value": "{selector.container.neutral.color.text.disabled}"
+            }
+          }
+        }
+      }
+    }
+  }

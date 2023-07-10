@@ -1,0 +1,12 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 10 Jul 2023 14:41:28 GMT
+ */
+
+:root {
+  --form-color-header-text-tittle: var(--neutral-150);
+  --form-color-header-text-description: var(--neutral-130);
+  --form-color-input-suppinfo-icon-success: var(--green-100);
+  --form-color-input-suppinfo-icon-error: var(--red-80);
+  --form-color-input-suppinfo-text-default: var(--neutral-130);
+}

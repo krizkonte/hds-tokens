@@ -1,0 +1,48 @@
+{
+    "form": {
+      "color": {
+        "input": {
+          "suppinfo": {
+            "text": {
+              "default": {
+                "attributes": {
+                  "category": "form"
+                },
+                "value": "{neutral.130}"
+              }
+            },
+            "icon": {
+              "error": {
+                "attributes": {
+                  "category": "form"
+                },
+                "value": "{red.80}"
+              },
+              "success": {
+                "attributes": {
+                  "category": "form"
+                },
+                "value": "{green.100}"
+              }
+            }
+          }
+        },
+        "header": {
+          "text": {
+            "description": {
+              "attributes": {
+                "category": "form"
+              },
+              "value": "{neutral.130}"
+            },
+            "tittle": {
+              "attributes": {
+                "category": "form"
+              },
+              "value": "{neutral.150}"
+            }
+          }
+        }
+      }
+    }
+  }

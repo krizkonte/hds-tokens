@@ -1,0 +1,448 @@
+{
+  "textfield": {
+    "outline": {
+      "danger": {
+        "color": {
+          "bg": {
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.0}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.30}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.0}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.10}"
+            }
+          },
+          "placeholder": {
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.80}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            }
+          },
+          "resizeHandler": {
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{violet.50}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.70}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            },
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{violet.80}"
+            }
+          },
+          "stroke": {
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.30}"
+            },
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.70}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.60}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.40}"
+            }
+          },
+          "text": {
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.80}"
+            }
+          }
+        }
+      },
+      "success": {
+        "color": {
+          "bg": {
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.0}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.30}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.0}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.10}"
+            }
+          },
+          "placeholder": {
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.120}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            }
+          },
+          "resizeHandler": {
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{violet.50}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.70}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            },
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{violet.80}"
+            }
+          },
+          "stroke": {
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.30}"
+            },
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.80}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.60}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.40}"
+            }
+          },
+          "text": {
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.120}"
+            }
+          }
+        }
+      }
+    },
+    "container": {
+      "danger": {
+        "color": {
+          "bg": {
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.0}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.30}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.0}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.10}"
+            }
+          },
+          "placeholder": {
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.80}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            }
+          },
+          "resizeHandler": {
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{violet.50}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.70}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            },
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{violet.80}"
+            }
+          },
+          "stroke": {
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.30}"
+            },
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.70}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.60}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.40}"
+            }
+          },
+          "text": {
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{red.80}"
+            }
+          }
+        }
+      },
+      "success": {
+        "color": {
+          "bg": {
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.0}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.30}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.0}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.10}"
+            }
+          },
+          "placeholder": {
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.120}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            }
+          },
+          "resizeHandler": {
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{violet.50}"
+            },
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.70}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            },
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{violet.80}"
+            }
+          },
+          "stroke": {
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.30}"
+            },
+            "active": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.80}"
+            },
+            "hover": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.60}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.40}"
+            }
+          },
+          "text": {
+            "disabled": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{neutral.100}"
+            },
+            "default": {
+              "attributes": {
+                "category": "textfield"
+              },
+              "value": "{green.120}"
+            }
+          }
+        }
+      }
+    }
+  }
+}

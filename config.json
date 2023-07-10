@@ -1,0 +1,107 @@
+{
+  "source": ["tokens/**/*.json"],
+
+  "platforms": {
+    "scss": {
+      "transformGroup": "scss",
+      "buildPath": "build/scss/",
+
+      "files": [
+        {
+          "destination": "core-colors.scss",
+          "format": "scss/variables"
+        },
+         {
+          "destination": "selector.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "type": "selector"
+            }
+          }
+        },
+        {
+          "destination": "textfield.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "textfield"
+            }
+          }
+        },
+        {
+          "destination": "form.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "form"
+            }
+          }
+        }
+      ]
+    },
+
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "build/css/",
+
+      "files": [
+        {
+          "destination": "core-colors.css",
+          "format": "css/variables"
+        },
+        {
+          "destination": "selector.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "type": "selector"
+            }
+          }
+        },
+        {
+          "destination": "textfield.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "textfield"
+            }
+          }
+        },
+        {
+          "destination": "form.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "form"
+            }
+          }
+        }
+      ]
+    }
+}}
+
