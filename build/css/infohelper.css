@@ -1,0 +1,11 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 10 Jul 2023 19:09:50 GMT
+ */
+
+:root {
+  --infohelper-color-bg-default: var(--transparent);
+  --infohelper-color-bg-hover: var(--violet-10);
+  --infohelper-color-icon-default: var(--neutral-130);
+  --infohelper-color-icon-hover: var(--violet-80);
+}

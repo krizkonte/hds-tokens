@@ -80,7 +80,33 @@
               "category": "radiobutton"
             }
           }
-        }
+        },
+        {
+          "destination": "infohelper.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "infohelper"
+            }
+          }
+        },
+        {
+          "destination": "label.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "label"
+            }
+          }
+        }             
       ]
     },
 
@@ -162,7 +188,33 @@
               "category": "radiobutton"
             }
           }
-        }        
+        },
+        {
+          "destination": "infohelper.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "infohelper"
+            }
+          }
+        },
+        {
+          "destination": "label.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "label"
+            }
+          }
+        }              
       ]
     }
 }}
