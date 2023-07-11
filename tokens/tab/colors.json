@@ -2,189 +2,203 @@
   "tab": {
     "accent": {
       "icon": {
-        "disabled": {
-          "attributes": {
-            "category": "tab"
+        "color": {
+          "disabled": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.100}"
           },
-          "value": "{neutral.100}"
-        },
-        "active": {
-          "attributes": {
-            "category": "tab"
+          "active": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{violet.80}"
           },
-          "value": "{violet.80}"
-        },
-        "hover": {
-          "attributes": {
-            "category": "tab"
+          "hover": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{violet.50}"
           },
-          "value": "{violet.50}"
-        },
-        "default": {
-          "attributes": {
-            "category": "tab"
-          },
-          "value": "{neutral.130}"
+          "default": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.130}"
+          }
         }
       },
       "text": {
-        "disabled": {
-          "attributes": {
-            "category": "tab"
+        "color": {
+          "disabled": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.100}"
           },
-          "value": "{neutral.100}"
-        },
-        "hover": {
-          "attributes": {
-            "category": "tab"
+          "hover": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{violet.50}"
           },
-          "value": "{violet.50}"
-        },
-        "default": {
-          "attributes": {
-            "category": "tab"
+          "default": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.130}"
           },
-          "value": "{neutral.130}"
-        },
-        "active": {
-          "attributes": {
-            "category": "tab"
-          },
-          "value": "{violet.80}"
+          "active": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{violet.80}"
+          }
         }
       },
       "stroke": {
-        "active": {
-          "attributes": {
-            "category": "tab"
+        "color": {
+          "active": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{violet.80}"
           },
-          "value": "{violet.80}"
-        },
-        "hover": {
-          "attributes": {
-            "category": "tab"
+          "hover": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.40}"
           },
-          "value": "{neutral.40}"
-        },
-        "default": {
-          "attributes": {
-            "category": "tab"
+          "default": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{transparent}"
           },
-          "value": "{transparent}"
-        },
-        "disabled": {
-          "attributes": {
-            "category": "tab"
-          },
-          "value": "{transparent}"
+          "disabled": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{transparent}"
+          }
         }
       }
     },
     "neutral": {
       "stroke": {
-        "disabled": {
-          "attributes": {
-            "category": "tab"
+        "color": {
+          "disabled": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{transparent}"
           },
-          "value": "{transparent}"
-        },
-        "default": {
-          "attributes": {
-            "category": "tab"
+          "default": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{transparent}"
           },
-          "value": "{transparent}"
-        },
-        "active": {
-          "attributes": {
-            "category": "tab"
+          "active": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.150}"
           },
-          "value": "{neutral.150}"
-        },
-        "hover": {
-          "attributes": {
-            "category": "tab"
-          },
-          "value": "{neutral.40}"
+          "hover": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.40}"
+          }
         }
       },
       "text": {
-        "active": {
-          "attributes": {
-            "category": "tab"
+        "color": {
+          "active": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.150}"
           },
-          "value": "{neutral.150}"
-        },
-        "hover": {
-          "attributes": {
-            "category": "tab"
+          "hover": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.110}"
           },
-          "value": "{neutral.110}"
-        },
-        "default": {
-          "attributes": {
-            "category": "tab"
+          "default": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.130}"
           },
-          "value": "{neutral.130}"
-        },
-        "disabled": {
-          "attributes": {
-            "category": "tab"
-          },
-          "value": "{neutral.100}"
+          "disabled": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.100}"
+          }
         }
       }
     },
     "helper": {
       "stroke": {
-        "hover": {
-          "attributes": {
-            "category": "tab"
+        "color": {
+          "hover": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.40}"
           },
-          "value": "{neutral.40}"
-        },
-        "default": {
-          "attributes": {
-            "category": "tab"
+          "default": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{transparent}"
           },
-          "value": "{transparent}"
-        },
-        "disabled": {
-          "attributes": {
-            "category": "tab"
+          "disabled": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{transparent}"
           },
-          "value": "{transparent}"
-        },
-        "active": {
-          "attributes": {
-            "category": "tab"
-          },
-          "value": "{orange.80}"
+          "active": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{orange.80}"
+          }
         }
       },
       "text": {
-        "hover": {
-          "attributes": {
-            "category": "tab"
+        "color": {
+          "hover": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{orange.50}"
           },
-          "value": "{orange.50}"
-        },
-        "active": {
-          "attributes": {
-            "category": "tab"
+          "active": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{orange.80}"
           },
-          "value": "{orange.80}"
-        },
-        "disabled": {
-          "attributes": {
-            "category": "tab"
+          "disabled": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.100}"
           },
-          "value": "{neutral.100}"
-        },
-        "default": {
-          "attributes": {
-            "category": "tab"
-          },
-          "value": "{neutral.130}"
+          "default": {
+            "attributes": {
+              "category": "tab"
+            },
+            "value": "{neutral.130}"
+          }
         }
       }
     }
