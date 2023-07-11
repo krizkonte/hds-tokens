@@ -106,7 +106,20 @@
               "category": "label"
             }
           }
-        }             
+        },
+        {
+          "destination": "tab.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "tab"
+            }
+          }
+        }                
       ]
     },
 
@@ -214,7 +227,20 @@
               "category": "label"
             }
           }
-        }              
+        },
+        {
+          "destination": "tab.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "tab"
+            }
+          }
+        }                
       ]
     }
 }}

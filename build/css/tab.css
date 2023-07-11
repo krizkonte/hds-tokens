@@ -1,0 +1,35 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 11 Jul 2023 13:38:07 GMT
+ */
+
+:root {
+  --tab-helper-text-default: var(--neutral-130);
+  --tab-helper-text-disabled: var(--neutral-100);
+  --tab-helper-text-active: var(--orange-80);
+  --tab-helper-text-hover: var(--orange-50);
+  --tab-helper-stroke-active: var(--orange-80);
+  --tab-helper-stroke-disabled: var(--transparent);
+  --tab-helper-stroke-default: var(--transparent);
+  --tab-helper-stroke-hover: var(--neutral-40);
+  --tab-neutral-text-disabled: var(--neutral-100);
+  --tab-neutral-text-default: var(--neutral-130);
+  --tab-neutral-text-hover: var(--neutral-110);
+  --tab-neutral-text-active: var(--neutral-150);
+  --tab-neutral-stroke-hover: var(--neutral-40);
+  --tab-neutral-stroke-active: var(--neutral-150);
+  --tab-neutral-stroke-default: var(--transparent);
+  --tab-neutral-stroke-disabled: var(--transparent);
+  --tab-accent-stroke-disabled: var(--transparent);
+  --tab-accent-stroke-default: var(--transparent);
+  --tab-accent-stroke-hover: var(--neutral-40);
+  --tab-accent-stroke-active: var(--violet-80);
+  --tab-accent-text-active: var(--violet-80);
+  --tab-accent-text-default: var(--neutral-130);
+  --tab-accent-text-hover: var(--violet-50);
+  --tab-accent-text-disabled: var(--neutral-100);
+  --tab-accent-icon-default: var(--neutral-130);
+  --tab-accent-icon-hover: var(--violet-50);
+  --tab-accent-icon-active: var(--violet-80);
+  --tab-accent-icon-disabled: var(--neutral-100);
+}
