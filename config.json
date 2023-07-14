@@ -119,7 +119,20 @@
               "category": "tab"
             }
           }
-        }                
+        },
+        {
+          "destination": "popover.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "popover"
+            }
+          }
+        }                    
       ]
     },
 
@@ -240,7 +253,20 @@
               "category": "tab"
             }
           }
-        }                
+        },
+        {
+          "destination": "popover.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "popover"
+            }
+          }
+        }                  
       ]
     }
 }}

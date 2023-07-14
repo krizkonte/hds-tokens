@@ -1,0 +1,80 @@
+{
+  "tooltip": {
+    "color": {
+      "text": {
+        "attributes": {
+          "category": "popover"
+        },
+        "value": "{neutral.150}"
+      },
+      "bg": {
+        "attributes": {
+          "category": "popover"
+        },
+        "value": "{white}"
+      },
+      "link": {
+        "hover": {
+          "attributes": {
+            "category": "popover"
+          },
+          "value": "{violet.50}"
+        },
+        "default": {
+          "attributes": {
+            "category": "popover"
+          },
+          "value": "{violet.80}"
+        }
+      }
+    }
+  },
+  "slot": {
+    "color": {
+      "modal": {
+        "stroke": {
+          "attributes": {
+            "category": "popover"
+          },
+          "value": "{orange.40}"
+        },
+        "bg": {
+          "attributes": {
+            "category": "popover"
+          },
+          "value": "{orange.0}"
+        }
+      },
+      "trigger": {
+        "bg": {
+          "active": {
+            "attributes": {
+              "category": "popover"
+            },
+            "value": "{violet.20}"
+          },
+          "default": {
+            "attributes": {
+              "category": "popover"
+            },
+            "value": "{violet.0}"
+          }
+        },
+        "stroke": {
+          "active": {
+            "attributes": {
+              "category": "popover"
+            },
+            "value": "{violet.100}"
+          },
+          "default": {
+            "attributes": {
+              "category": "popover"
+            },
+            "value": "{violet.40}"
+          }
+        }
+      }
+    }
+  }
+}

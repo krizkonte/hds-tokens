@@ -1,34 +1,34 @@
 {
-    "infohelper": {
-      "color": {
-        "icon": {
-          "hover": {
-            "attributes": {
-              "category": "infohelper"
-            },
-            "value": "{violet.80}"
+  "infohelper": {
+    "color": {
+      "icon": {
+        "hover": {
+          "attributes": {
+            "category": "color"
           },
-          "default": {
-            "attributes": {
-              "category": "infohelper"
-            },
-            "value": "{neutral.130}"
-          }
+          "value": "{violet.80}"
         },
-        "bg": {
-          "hover": {
-            "attributes": {
-              "category": "infohelper"
-            },
-            "value": "{violet.10}"
+        "default": {
+          "attributes": {
+            "category": "color"
           },
-          "default": {
-            "attributes": {
-              "category": "infohelper"
-            },
-            "value": "{transparent}"
-          }
+          "value": "{neutral.130}"
+        }
+      },
+      "bg": {
+        "hover": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{violet.10}"
+        },
+        "default": {
+          "attributes": {
+            "category": "color"
+          },
+          "value": "{transparent}"
         }
       }
     }
   }
+}

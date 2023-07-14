@@ -1,0 +1,18 @@
+{
+  "label": {
+    "color": {
+      "required": {
+        "attributes": {
+          "category": "label"
+        },
+        "value": "{red.50}"
+      },
+      "text": {
+        "attributes": {
+          "category": "label"
+        },
+        "value": "{neutral.150}"
+      }
+    }
+  }
+}
