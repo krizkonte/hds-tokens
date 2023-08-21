@@ -132,7 +132,20 @@
               "category": "popover"
             }
           }
-        }                    
+        },
+        {
+          "destination": "videoplayer.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "videoplayer"
+            }
+          }
+        }                                 
       ]
     },
 
@@ -266,7 +279,20 @@
               "category": "popover"
             }
           }
-        }                  
+        },
+        {
+          "destination": "videoplayer.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "videoplayer"
+            }
+          }
+        }                        
       ]
     }
 }}

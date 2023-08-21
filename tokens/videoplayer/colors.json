@@ -1,0 +1,40 @@
+{
+  "player": {
+    "wrapper": {
+      "overlay": {
+        "attributes": {
+          "category": "videoplayer"
+        },
+        "value": "rgba(0, 0, 0, 0.2400)"
+      }
+    },
+    "controls": {
+      "text": {
+        "attributes": {
+          "category": "videoplayer"
+        },
+        "value": "{white}"
+      },
+      "icon": {
+        "attributes": {
+          "category": "videoplayer"
+        },
+        "value": "{white}"
+      },
+      "bg": {
+        "attributes": {
+          "category": "videoplayer"
+        },
+        "value": "{neutral.180}"
+      }
+    },
+    "fab": {
+      "bg": {
+        "attributes": {
+          "category": "videoplayer"
+        },
+        "value": "rgba(255, 255, 255, 0.4800)"
+      }
+    }
+  }
+}

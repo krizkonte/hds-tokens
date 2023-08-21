@@ -1,0 +1,12 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 21 Aug 2023 15:00:35 GMT
+ */
+
+:root {
+  --player-fab-bg: rgba(255, 255, 255, 0.4800);
+  --player-wrapper-overlay: rgba(0, 0, 0, 0.2400);
+  --player-controls-bg: var(--neutral-180);
+  --player-controls-icon: var(--white);
+  --player-controls-text: var(--white);
+}
