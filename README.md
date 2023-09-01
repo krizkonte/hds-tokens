@@ -4,7 +4,7 @@ This example code is bare-bones to show you what this framework can do. If you h
 ```bash
 style-dictionary build
 ```
-
+style-dictionary build
 You should see something like this output:
 ```
 Copying starter files...
