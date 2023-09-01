@@ -145,7 +145,20 @@
               "category": "videoplayer"
             }
           }
-        }                                 
+        },
+        {
+          "destination": "tag.scss",
+          "format": "scss/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "tag"
+            }
+          }
+        }                                  
       ]
     },
 
@@ -292,7 +305,20 @@
               "category": "videoplayer"
             }
           }
-        }                        
+        },
+        {
+          "destination": "tag.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          },
+
+          "filter": {
+            "attributes": {
+              "category": "tag"
+            }
+          }
+        }                                      
       ]
     }
 }}
